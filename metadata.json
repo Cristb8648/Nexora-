@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "Plataforma Inteligente de Compra y Venta Local - Santiago del Estero",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
